@@ -14,7 +14,7 @@ public class Main {
   }
 
   private static void hienthiMenu() {
-    System.out.println("\n=========\nChuong trinh Quan ly hang hoa trong kho cua sieu thi cua NGUYEN VU ANH TOAN\n=========");
+    System.out.println("\n=========\nChuong trinh Quan ly kho cua sieu thi cua NGUYEN VU ANH TOAN\n=========");
     int luaChon = 0;
     do {
       System.out.println("\nVui long chon (1 --> 7):");
